@@ -11,6 +11,7 @@ light_level is level is of which, then turns on the script.
 count_beats = 0
 music.set_volume(255)
 radio.set_group(155)
+# Change light_level to any number to adjust the sensitvity.
 light_level = 100
 """
 

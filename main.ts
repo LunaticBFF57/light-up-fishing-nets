@@ -11,6 +11,7 @@ light_level is level is of which, then turns on the script.
 let count_beats = 0
 music.setVolume(255)
 radio.setGroup(155)
+//  Change light_level to any number to adjust the sensitvity.
 let light_level = 100
 /** This is the script below. */
 basic.forever(function on_forever() {
