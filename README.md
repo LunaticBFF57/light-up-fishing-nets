@@ -33,3 +33,4 @@ This image may take a few minutes to refresh.
 ## Important Info (Inserted by me)
 
 "main.py, main.ts and main.blocks" are the 'main' script as the name suggests.
+Also I will add the updates to this when I edit it on the website.
